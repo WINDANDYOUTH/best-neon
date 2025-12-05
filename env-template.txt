@@ -1,0 +1,8 @@
+# Environment Variables Template
+# Copy this content to a new file named .env.local in the root directory
+
+COMPANY_NAME="Your Company Name"
+SITE_NAME="Next.js Commerce"
+SHOPIFY_STORE_DOMAIN="your-store.myshopify.com"
+SHOPIFY_STOREFRONT_ACCESS_TOKEN="your-storefront-access-token-here"
+SHOPIFY_REVALIDATION_SECRET="your-random-secret-string"
